@@ -3,7 +3,8 @@ function theTruth() {
 }
 
 function sayHey() {
-  return "Hey!";
+  // return "Hey!";
+  debugger
 }
 
 function sayHeyFriend(name) {
